@@ -1,5 +1,5 @@
 ## ROBOFRIENDS  
 
-Clone this repository
-Run npm install
-Run npm start
+1. Clone this repository
+2. Run npm install
+3. Run npm start
